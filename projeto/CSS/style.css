@@ -1,0 +1,17 @@
+.cor_link{
+    color: antiquewhite;
+}
+
+.cor_link:hover{
+    color: aqua;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+}
